@@ -1,32 +1,37 @@
-# Stack Overflown - 程式錯誤圖案方塊遊戲
+<div align="center">
 
-Stack Overflown 是一款以程式開發為主題的瀏覽器方塊遊戲。移動和旋轉落下的方塊，在棋盤上拼出右側顯示的錯誤圖案；成功配對即可得分。當方塊堆到棋盤頂端時，遊戲結束。
+# 🎉 Congratulations ucomdemo! 🎉
 
-## 遊戲功能
+<img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
-- **即時方塊遊戲**：在 10 欄、20 列的棋盤中移動、旋轉並放置方塊。
-- **錯誤圖案挑戰**：目標圖案會隨機切換，包含 Null Pointer、Memory Leak、Off By One、Race Condition、Infinite Loop、Syntax Error 和 Type Mismatch。
-- **配對得分**：棋盤任一 5 × 5 區域符合目前目標圖案時，獲得 100 分並抽選下一個目標。配對成功後棋盤會清空。
-- **暫停與重新開始**：可暫停遊戲；遊戲結束時會顯示最終分數，並可重新開始。
-- **開發者主題視覺**：方塊使用不同的程式碼配色，搭配深色編輯器風格介面。
+### 🌟 You've successfully completed the exercise! 🌟
 
-## 操作方式
+## 🚀 Share Your Success!
 
-| 按鍵 | 功能 |
-| --- | --- |
-| ← / → | 向左／向右移動 |
-| ↑ | 旋轉方塊 |
-| ↓ | 加速方塊下落 |
-| Space | 直接落下方塊 |
-| P | 暫停／繼續 |
+**Show off your new skills and inspire others!**
 
-## 開始遊戲
+<a href="https://twitter.com/intent/tweet?text=I%20just%20completed%20the%20%22Introduction%20to%20Git%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fucomdemo%2FGH900-M01-skills-introduction-to-git%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20X-1da1f2?style=for-the-badge&logo=x&logoColor=white" alt="Share on X" />
+</a>
+<a href="https://bsky.app/intent/compose?text=I%20just%20completed%20the%20%22Introduction%20to%20Git%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fucomdemo%2FGH900-M01-skills-introduction-to-git%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20Bluesky-0085ff?style=for-the-badge&logo=bluesky&logoColor=white" alt="Share on Bluesky" />
+</a>
+<a href="https://www.linkedin.com/feed/?shareActive=true&text=I%20just%20completed%20the%20%22Introduction%20to%20Git%22%20GitHub%20Skills%20hands-on%20exercise!%20%F0%9F%8E%89%0A%0Ahttps%3A%2F%2Fgithub.com%2Fucomdemo%2FGH900-M01-skills-introduction-to-git%0A%0A%23GitHubSkills%20%23OpenSource%20%23GitHubLearn" target="_blank" rel="noopener noreferrer">
+  <img src="https://img.shields.io/badge/Share%20on%20LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Share on LinkedIn" />
+</a>
 
-無需安裝依賴。直接在瀏覽器開啟 `src/index.html` 即可開始遊玩。
+### 🎯 What's Next?
 
-## 專案檔案
+**Keep the momentum going!**
 
-- `src/index.html`：遊戲畫面與頁面結構。
-- `src/index.js`：遊戲流程、方塊操作、碰撞判定、配對與計分邏輯。
-- `src/patterns.js`：錯誤圖案資料。
-- `src/style.css`：遊戲介面的樣式與版面配置。
+[![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/ucomdemo/GH900-M01-skills-introduction-to-git/issues/1)
+[![GitHub Skills](https://img.shields.io/badge/Explore%20GitHub%20Skills-000000?style=for-the-badge&logo=github&logoColor=white)](https://learn.github.com/skills))
+
+*There's no better way to learn than building things!* 🚀
+
+</div>
+
+---
+
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+
